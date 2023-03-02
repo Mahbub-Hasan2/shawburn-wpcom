@@ -1,0 +1,324 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "primary",
+                "menu-2": "primary",
+                "social": "social"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "Portofolio",
+            "post_content": "<!-- wp:jetpack/tiled-gallery {\"align\":\"full\",\"ids\":[56,57,58,59,60,61,62,63]} --> <div class=\"wp-block-jetpack-tiled-gallery alignfull is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"56\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-_x335izxxfc-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-_x335izxxfc-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-_x335izxxfc-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"57\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-6ba_vdgx_go-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-6ba_vdgx_go-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-6ba_vdgx_go-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"58\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-9vzorkfbsmm-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-9vzorkfbsmm-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-9vzorkfbsmm-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2500\" data-id=\"59\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-f5t3eyxuqg8-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-f5t3eyxuqg8-unsplash.jpg\" data-width=\"2000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-f5t3eyxuqg8-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"60\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-jkaixp_jppo-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-jkaixp_jppo-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-jkaixp_jppo-unsplash.jpg\" /></figure></div></div><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"61\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-kvomdhvcttg-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-kvomdhvcttg-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-kvomdhvcttg-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2500\" data-id=\"62\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-lpwl2pevgkc-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-lpwl2pevgkc-unsplash.jpg\" data-width=\"2000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-lpwl2pevgkc-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"63\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-ojhdfivlrfq-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-ojhdfivlrfq-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-ojhdfivlrfq-unsplash.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:spacer {\"height\":64,\"className\":\"desktop-only\"} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">Karya Kami</h2> <!-- /wp:heading --> <!-- wp:separator --> <hr class=\"wp-block-separator\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} --> <div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Pembuatan Merek</h4> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Kami membantu perusahaan menentukan identitas merek yang jelas yang akan membawa mereka melewati tahap pembiayaan.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Desain web</h4> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Ahli dalam desain web, kami menciptakan pengalaman online yang canggih pemenang penghargaan.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Pemasaran Digital</h4> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Dari mengembangkan startegi pemasaran hingga kampanye pengelolaan, kami bisa menangani semua kebutuhan pemasaran dan periklanan Anda.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64,\"className\":\"desktop-only\"} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">Klien Kami</h2> <!-- /wp:heading --> <!-- wp:separator --> <hr class=\"wp-block-separator\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-6-columns .columns-middle-align\"} --> <div class=\"wp-block-columns alignwide has-6-columns .columns-middle-align\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":534} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/d7f6c-logo1.png\" alt=\"\" class=\"wp-image-534\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":535} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/fa484-logo2.png\" alt=\"\" class=\"wp-image-535\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":536} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/42f46-logo3.png\" alt=\"\" class=\"wp-image-536\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":537} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/1d5a8-logo4.png\" alt=\"\" class=\"wp-image-537\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":538} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/27c9e-logo5.png\" alt=\"\" class=\"wp-image-538\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":539} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/98148-logo6.png\" alt=\"\" class=\"wp-image-539\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group -->",
+            "post_name": "portfolio",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "professional",
+            "hs_old_id": 31,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Kontak",
+            "post_content": "<!-- wp:paragraph --> <p>Ayo bicara 👋 Jangan ragu untuk menghubungi kami melalui informasi kontak di bawah ini, atau kirimkan pesan menggunakan formulir.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Hubungi Kami</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/email {\"email\":\"mail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123) 456-7890</a></div> <!-- /wp:jetpack/phone --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --> <!-- wp:jetpack/address {\"address\":\"100 Park Blvd\",\"city\":\"San Diego\",\"region\":\"CA\",\"postal\":\"92101\",\"linkToGoogleMaps\":true} --> <div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/100+Park Blvd,+San Diego,+CA,+92101\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Buka alamat di Google Maps\"><div class=\"jetpack-address__address jetpack-address__address1\">100 Park Blvd</div><div><span class=\"jetpack-address__city\">San Diego</span>, <span class=\"jetpack-address__region\">CA</span> <span class=\"jetpack-address__postal\">92101</span></div></a></div> <!-- /wp:jetpack/address --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:heading --> <h2>Jam Buka</h2> <!-- /wp:heading --> <!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">Kirimkan Pesan Kepada Kami</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /--> <!-- wp:jetpack/field-url /--> <!-- wp:jetpack/field-textarea {\"required\":true} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 27,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Perihal",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Berbasis di Downtown San Diego, Shawburn merupakan agensi digital pemenang penghargaan.</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">Kami unggul di 3 area utama bisnis: pembuatan merek, desain web, dan pemasaran digital.</p> <!-- /wp:paragraph --> <!-- wp:button {\"className\":\"is-style-default\"} --> <div class=\"wp-block-button is-style-default\"><a class=\"wp-block-button__link\" href=\"https://shawburndemo.wordpress.com/portfolio/\">Portofolio Kami</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div class=\"wp-block-spacer desktop-only\" style=\"height:32px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} --> <div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Pembuatan Merek</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":9,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img class=\"wp-image-9\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-aacursb7auc-unsplash.jpg?w=750\" alt=\"\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>Kami membantu perusahaan menentukan identitas merek yang jelas yang akan membawa mereka melewati tahap pembiayaan.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Desain web</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":8,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img class=\"wp-image-8\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-b9rpuuq_yss-unsplash.jpg?w=750\" alt=\"\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>Ahli dalam desain web, kami menciptakan pengalaman online yang canggih pemenang penghargaan.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Pemasaran Digital</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":7,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img class=\"wp-image-7\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-l0nipfx-ry4-unsplash.jpg?w=750\" alt=\"\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>Dari mengembangkan startegi pemasaran hingga kampanye pengelolaan, kami bisa menangani semua kebutuhan pemasaran dan periklanan Anda.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64,\"className\":\"desktop-only\"} --> <div class=\"wp-block-spacer desktop-only\" style=\"height:64px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\">\n<div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div class=\"wp-block-spacer\" style=\"height:32px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">Ayo buat sesuatu bersama.</h2> <!-- /wp:heading --> <!-- wp:button {\"align\":\"center\",\"className\":\"is-style-default\"} --> <div class=\"wp-block-button aligncenter is-style-default\"><a class=\"wp-block-button__link\" href=\"https://shawburndemo.wordpress.com/contact/\">Hubungi Kami</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32} --> <div class=\"wp-block-spacer\" style=\"height:32px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --></div>\n</div> <!-- /wp:group -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "about",
+            "hs_old_id": 24,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Berita",
+            "post_content": "",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 17,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "Beranda",
+            "post_content": "<!-- wp:cover {\"url\":\"https:\\/\\/shawburndemo.files.wordpress.com\\/2019\\/08\\/aleks-dorohovich-njdwuhmay8a-unsplash.jpg\",\"id\":5,\"dimRatio\":0,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://shawburndemo.files.wordpress.com/2019/08/aleks-dorohovich-njdwuhmay8a-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title\\u2026\",\"fontSize\":\"large\"} --> <p class=\"has-text-align-center has-large-font-size\"></p> <!-- /wp:paragraph --></div></div> <!-- /wp:cover --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"level\":1} --> <h1>Bukan Agensi Biasa</h1> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Di Shawburn kami unggul di 3 area utama bisnis: pembuatan merek, desain web, dan pemasaran digital.</p> <!-- /wp:paragraph --> <!-- wp:button {\"className\":\"is-style-default\"} --> <div class=\"wp-block-button is-style-default\"><a class=\"wp-block-button__link\" href=\"https://shawburndemo.wordpress.com/portfolio/\">Portofolio Kami</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Pembuatan Merek</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":9,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-aacursb7auc-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-9\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>Kami membantu perusahaan menentukan identitas merek yang jelas yang akan membawa mereka melewati tahap pembiayaan.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Desain web</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":8,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-b9rpuuq_yss-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-8\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>Ahli dalam desain web, kami menciptakan pengalaman online yang canggih pemenang penghargaan.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Pemasaran Digital</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":7,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-l0nipfx-ry4-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-7\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>Dari mengembangkan startegi pemasaran hingga kampanye pengelolaan, kami bisa menangani semua kebutuhan pemasaran dan periklanan Anda.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":10,\"width\":75,\"height\":75,\"sizeSlug\":\"thumbnail\"} --> <div class=\"wp-block-image\"><figure class=\"aligncenter size-thumbnail is-resized\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/amy-hirschi-frdwhqc9stk-unsplash.jpg?w=150\" alt=\"\" class=\"wp-image-10\" width=\"75\" height=\"75\" /></figure></div> <!-- /wp:image --> <!-- wp:quote {\"align\":\"center\",\"className\":\"is-style-large\"} --> <blockquote class=\"wp-block-quote has-text-align-center is-style-large\"><p>Kami meminta Shawburn untuk membuat ulang secara total merek perusahaan kami. Kami sangat senang, begitu pun para pelanggan kami.</p><cite>Amy Blake, LexCorp</cite></blockquote> <!-- /wp:quote --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":11,\"width\":75,\"height\":75,\"sizeSlug\":\"thumbnail\"} --> <div class=\"wp-block-image\"><figure class=\"aligncenter size-thumbnail is-resized\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/etty-fidele-vnycibzju0o-unsplash.jpg?w=150\" alt=\"\" class=\"wp-image-11\" width=\"75\" height=\"75\" /></figure></div> <!-- /wp:image --> <!-- wp:quote {\"align\":\"center\",\"className\":\"is-style-large\"} --> <blockquote class=\"wp-block-quote has-text-align-center is-style-large\"><p>Shawburn menangani pemasaran online kami dengan beberapa hasil yang luar biasa. Saat ini kami muncul sebagai hasil teratas di mesin pencarian!</p><cite>Mike Wallace, Wayne Enterprises</cite></blockquote> <!-- /wp:quote --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Perihal</h4> <!-- /wp:heading --> <!-- wp:image {\"align\":\"center\",\"id\":13,\"width\":150,\"height\":135,\"sizeSlug\":\"medium\"} --> <div class=\"wp-block-image\"><figure class=\"aligncenter size-medium is-resized\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/smooth.png?w=300\" alt=\"\" class=\"wp-image-13\" width=\"150\" height=\"135\" /></figure></div> <!-- /wp:image --> <!-- wp:paragraph --> <p>Shawburn merupakan agensi digital pemenang penghargaan yang berbasis di Downtown San Diego.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Hubungi Kami</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Hubungi agar kita dapat menjalin kerja sama untuk mengundang lebih banyak pelanggan ke produk dan layanan Anda.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>email@example.com<br>(123) 456-7890<br>100 Park Blvd<br>San Diego, CA 92101</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">Jam Buka</h4> <!-- /wp:heading --> <!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Pembaruan: Fungsi saat ini",
+            "post_content": "<!-- wp:paragraph --> <p>Kami sangat sibuk belakangan ini, sehingga pembaruan info di blog agak lambat. Tapi tak perlu khawatir lagi, kami telah kembali dengan beberapa kabar!</p> <!-- /wp:paragraph --> <!-- wp:jetpack/tiled-gallery {\"ids\":[96,97,98]} --> <div class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"96\" data-link=\"https://shawburndemo.wordpress.com/mixkit-265-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-265-original.jpg\" data-width=\"2000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-265-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"97\" data-link=\"https://shawburndemo.wordpress.com/mixkit-266-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-266-original.jpg\" data-width=\"3000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-266-original.jpg\" /></figure><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"98\" data-link=\"https://shawburndemo.wordpress.com/mixkit-267-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg\" data-width=\"3000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:paragraph --> <p>Kami telah ditunjuk untuk membuat beberapa seni digital untuk sebuah startup baru. Ikuti terus, kami akan membagikan hasil akhirnya kepada Anda.</p> <!-- /wp:paragraph -->",
+            "post_name": "update-current-work",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 95,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Work"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Karya Seni Makanan",
+            "post_content": "<!-- wp:paragraph --> <p>Kami sedang menangani kampanye periklanan online baru dan kami benar-benar sibuk menjelajahi berbagai opsi.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Berikut ini pratinjaunya:</p> <!-- /wp:paragraph --> <!-- wp:jetpack/tiled-gallery {\"align\":\"full\",\"ids\":[87,88,89,90]} --> <div class=\"wp-block-jetpack-tiled-gallery alignfull is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"87\" data-link=\"https://shawburndemo.wordpress.com/mixkit-177-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-177-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-177-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"88\" data-link=\"https://shawburndemo.wordpress.com/mixkit-178-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-178-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-178-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"89\" data-link=\"https://shawburndemo.wordpress.com/mixkit-179-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-179-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-179-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"90\" data-link=\"https://shawburndemo.wordpress.com/mixkit-180-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-180-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-180-original.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery -->",
+            "post_name": "food-artworks",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 86,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Work"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "Kantor Baru",
+            "post_content": "<!-- wp:paragraph --> <p>Tahun Baru, Kantor Baru.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Kesepakatannya telah ditandatangani beberapa minggu lalu, tetapi karena Natal dan Masa Libur, kami harus menunggu sedikit lebih lama untuk menjadikannya benar-benar resmi.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>Alamat baru kami:</p> <!-- /wp:paragraph --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"100 Park Blvd\",\"city\":\"San Diego\",\"region\":\"CA\",\"postal\":\"92101\",\"linkToGoogleMaps\":true} --> <div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/100+Park Blvd,+San Diego,+CA,+92101\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Buka alamat di Google Maps\"><div class=\"jetpack-address__address jetpack-address__address1\">100 Park Blvd</div><div><span class=\"jetpack-address__city\">San Diego</span>, <span class=\"jetpack-address__region\">CA</span> <span class=\"jetpack-address__postal\">92101</span></div></a></div> <!-- /wp:jetpack/address --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:image {\"align\":\"wide\",\"id\":82,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/room-l9qpabikkhw-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-82\" /></figure> <!-- /wp:image -->",
+            "post_name": "new-office",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 81,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Office"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "Utama",
+            "items": [
+                {
+                    "menu-item-title": "Beranda",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Portofolio",
+                    "menu-item-db-id": 35,
+                    "menu-item-object-id": "31",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Perihal",
+                    "menu-item-db-id": 36,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Berita",
+                    "menu-item-db-id": 38,
+                    "menu-item-object-id": "17",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "Kontak",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "27",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "Sosial",
+            "items": [
+                {
+                    "menu-item-title": "Facebook",
+                    "menu-item-db-id": 40,
+                    "menu-item-object-id": "40",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 41,
+                    "menu-item-object-id": "41",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "Instagram",
+                    "menu-item-db-id": 42,
+                    "menu-item-object-id": "42",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Dribbble",
+                    "menu-item-db-id": 43,
+                    "menu-item-object-id": "43",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com"
+                },
+                {
+                    "menu-item-title": "Behance",
+                    "menu-item-db-id": 44,
+                    "menu-item-object-id": "44",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://behance.net"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://shawburndemo.files.wordpress.com/2019/08/cropped-smooth-1.png",
+        "https://shawburndemo.files.wordpress.com/2019/08/cropped-smooth.png",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-266-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-265-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-180-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-179-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-178-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-177-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/room-l9qpabikkhw-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-ojhdfivlrfq-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-lpwl2pevgkc-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-kvomdhvcttg-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-jkaixp_jppo-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-f5t3eyxuqg8-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-9vzorkfbsmm-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-6ba_vdgx_go-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-_x335izxxfc-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/smooth.png",
+        "https://shawburndemo.files.wordpress.com/2019/08/etty-fidele-vnycibzju0o-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/amy-hirschi-frdwhqc9stk-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-aacursb7auc-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-b9rpuuq_yss-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-l0nipfx-ry4-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/aleks-dorohovich-njdwuhmay8a-unsplash.jpg"
+    ]
+}

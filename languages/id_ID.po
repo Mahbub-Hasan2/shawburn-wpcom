@@ -1,0 +1,95 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 421 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /home/wpcom/public_html/wp-content/rest-api-plugins/endpoints/happytools/schedule/models/class-day-settings.php on line 471 [translate.wordpress.com] [/rest-api-plugins/endpoints/happytools/schedule/models/include.php:15 require_once(''), /rest-api-plugins/endpoints/happytools/schedule/include.php:35 require_once('/rest-api-plugins/endpoints/happytools/schedule/models/include.php'), /rest-api-plugins/endpoints/happytools.php:27 require_once('/rest-api-plugins/endpoints/happytools/schedule/include.php'), bin/wp-cli-wpcom/commands/happytools-scheduler.php:5 require_once('/rest-api-plugins/endpoints/happytools.php'), /mu-plugins/0-wpcom-sandbox-helper.php:37 include('bin/wp-cli-wpcom/commands/happytools-scheduler.php'), wp-settings.php:325 include_once('/mu-plugins/0-wpcom-sandbox-helper.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+
+Warning: Cannot modify header information - headers already sent by (output started at /home/wpcom/public_html/.config/wpcom-options.php:760) in /home/wpcom/public_html/wp-includes/functions.php on line 6322 [translate.wordpress.com] [wp-includes/functions.php:6322 header(), /mu-plugins/wpcom-frame-handling.php:121 send_frame_options_header(), wp-includes/class-wp-hook.php:287 send_frame_options_header_for_automattic_flagged_sites(), wp-includes/class-wp-hook.php:311 apply_filters(''), wp-includes/plugin.php:478 do_action(Array), wp-settings.php:528 do_action('init'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1333 require('wp-settings.php'), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1160 load_wordpress(), bin/wp-cli/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23 start(), bin/wp-cli/vendor/wp-cli/wp-cli/php/bootstrap.php:74 process(), bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php:27 WP_CLI\bootstrap(), bin/wp-cli/php/boot-fs.php:17 include('bin/wp-cli/vendor/wp-cli/wp-cli/php/wp-cli.php')]
+# Translation of WordPress.com - Themes - Shawburn in Indonesian
+# This file is distributed under the same license as the WordPress.com - Themes - Shawburn package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-16 02:01:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: WordPress.com - Themes - Shawburn\n"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:126
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "nyala"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:131
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/shawburn/style.css
+msgid "Shawburn is the ideal choice for creating an online presence for your business."
+msgstr "Shawburn adalah pilihan ideal dalam membentuk kehadiran digital untuk bisnismu"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Utama"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "Abu-abu gelap"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "Abu-Abu"
+
+#: functions.php:96
+msgid "White"
+msgstr "Putih"
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:81 functions.php:86
+msgid "Light Gray"
+msgstr "Abu-abu Terang"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normal"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Besar"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Besar"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Kecil"

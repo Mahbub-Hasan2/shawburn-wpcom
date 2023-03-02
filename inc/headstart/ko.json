@@ -1,0 +1,324 @@
+{
+    "settings": {
+        "options": {
+            "show_on_front": "page",
+            "featured-content": false
+        },
+        "theme_mods": {
+            "0": false,
+            "nav_menu_locations": {
+                "menu-1": "primary",
+                "menu-2": "primary",
+                "social": "social"
+            },
+            "custom_css_post_id": -1,
+            "hide_front_page_title": true
+        },
+        "headstart": {
+            "mapped_id_options": [],
+            "mapped_id_theme_mods": [],
+            "keep_submenu_items": true
+        }
+    },
+    "widgets": [],
+    "content": [
+        {
+            "post_type": "page",
+            "post_title": "포트폴리오",
+            "post_content": "<!-- wp:jetpack/tiled-gallery {\"align\":\"full\",\"ids\":[56,57,58,59,60,61,62,63]} --> <div class=\"wp-block-jetpack-tiled-gallery alignfull is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"56\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-_x335izxxfc-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-_x335izxxfc-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-_x335izxxfc-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"57\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-6ba_vdgx_go-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-6ba_vdgx_go-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-6ba_vdgx_go-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"58\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-9vzorkfbsmm-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-9vzorkfbsmm-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-9vzorkfbsmm-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2500\" data-id=\"59\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-f5t3eyxuqg8-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-f5t3eyxuqg8-unsplash.jpg\" data-width=\"2000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-f5t3eyxuqg8-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"60\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-jkaixp_jppo-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-jkaixp_jppo-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-jkaixp_jppo-unsplash.jpg\" /></figure></div></div><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"61\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-kvomdhvcttg-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-kvomdhvcttg-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-kvomdhvcttg-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2500\" data-id=\"62\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-lpwl2pevgkc-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-lpwl2pevgkc-unsplash.jpg\" data-width=\"2000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-lpwl2pevgkc-unsplash.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"63\" data-link=\"https://shawburndemo.wordpress.com/balazs-ketyi-ojhdfivlrfq-unsplash/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-ojhdfivlrfq-unsplash.jpg\" data-width=\"2400\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-ojhdfivlrfq-unsplash.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:spacer {\"height\":64,\"className\":\"desktop-only\"} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">제공 서비스</h2> <!-- /wp:heading --> <!-- wp:separator --> <hr class=\"wp-block-separator\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} --> <div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">브랜딩</h4> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">기업이 자금 조달 성공을 달성하도록 도와줄 명확한 브랜드 정체성을 정의할 수 있도록 지원합니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">웹 디자인</h4> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">웹 디자인 전문가로서 수상 경력에 빛나는 최첨단 온라인 환경을 제작합니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">디지털 마케팅</h4> <!-- /wp:heading --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">마케팅 전략 개발에서 캠페인 관리에 이르기까지 모든 마케팅 및 광고 필요사항을 해결해 드립니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64,\"className\":\"desktop-only\"} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">고객</h2> <!-- /wp:heading --> <!-- wp:separator --> <hr class=\"wp-block-separator\" /> <!-- /wp:separator --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-6-columns .columns-middle-align\"} --> <div class=\"wp-block-columns alignwide has-6-columns .columns-middle-align\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":534} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/d7f6c-logo1.png\" alt=\"\" class=\"wp-image-534\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":535} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/fa484-logo2.png\" alt=\"\" class=\"wp-image-535\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":536} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/42f46-logo3.png\" alt=\"\" class=\"wp-image-536\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":537} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/1d5a8-logo4.png\" alt=\"\" class=\"wp-image-537\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":538} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/27c9e-logo5.png\" alt=\"\" class=\"wp-image-538\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":539} --> <div class=\"wp-block-image\"><figure class=\"aligncenter\"><img src=\"https://a8ctm1.files.wordpress.com/2019/06/98148-logo6.png\" alt=\"\" class=\"wp-image-539\" /></figure></div> <!-- /wp:image --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group -->",
+            "post_name": "portfolio",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "professional",
+            "hs_old_id": 31,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "연락처",
+            "post_content": "<!-- wp:paragraph --> <p>상담하기. 👋 아래의 연락처 정보로 문의하거나 양식을 사용하여 메시지를 보내세요.</p> <!-- /wp:paragraph --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer desktop-only\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"className\":\"has-2-columns\"} --> <div class=\"wp-block-columns has-2-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">문의하기</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/email {\"email\":\"mail@example.com\"} --> <div class=\"wp-block-jetpack-email\"><a href=\"mailto:mail@example.com\">mail@example.com</a></div> <!-- /wp:jetpack/email --> <!-- wp:jetpack/phone {\"phone\":\"(123) 456-7890\"} --> <div class=\"wp-block-jetpack-phone\"><a href=\"tel:1234567890\">(123)456-7890</a></div> <!-- /wp:jetpack/phone --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --> <!-- wp:jetpack/address {\"address\":\"100 Park Blvd\",\"city\":\"San Diego\",\"region\":\"CA\",\"postal\":\"92101\",\"linkToGoogleMaps\":true} --> <div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/100+Park Blvd,+San Diego,+CA,+92101\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Google 지도에서 주소 열기\"><div class=\"jetpack-address__address jetpack-address__address1\">100 Park Blvd</div><div><span class=\"jetpack-address__city\">San Diego</span>, <span class=\"jetpack-address__region\">CA</span> <span class=\"jetpack-address__postal\">92101</span></div></a></div> <!-- /wp:jetpack/address --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:heading --> <h2>영업 시간</h2> <!-- /wp:heading --> <!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"left\"} --> <h2 class=\"has-text-align-left\">메시지 보내기</h2> <!-- /wp:heading --> <!-- wp:jetpack/contact-form --> <!-- wp:jetpack/field-name {\"required\":true} /--> <!-- wp:jetpack/field-email {\"label\":\"Email\",\"required\":true} /--> <!-- wp:jetpack/field-url /--> <!-- wp:jetpack/field-textarea {\"required\":true} /--> <!-- /wp:jetpack/contact-form --></div> <!-- /wp:column --></div> <!-- /wp:columns -->",
+            "post_name": "contact",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "contact",
+            "hs_old_id": 27,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "page",
+            "post_title": "정보",
+            "post_content": "<!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">샌디에고 시내에 위치한 Shawburn은 수상 경력이 있는 디지털 대행사입니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph {\"align\":\"left\"} --> <p style=\"text-align:left;\">3가지 주요 비즈니스 영역인 브랜딩, 웹 디자인 및 디지털 마케팅에서 뛰어난 결과를 제공합니다.</p> <!-- /wp:paragraph --> <!-- wp:button {\"className\":\"is-style-default\"} --> <div class=\"wp-block-button is-style-default\"><a class=\"wp-block-button__link\" href=\"https://shawburndemo.wordpress.com/portfolio/\">포트폴리오</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32,\"className\":\"desktop-only\"} --> <div class=\"wp-block-spacer desktop-only\" style=\"height:32px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\",\"className\":\"has-3-columns\"} --> <div class=\"wp-block-columns alignwide has-3-columns\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">브랜딩</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":9,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img class=\"wp-image-9\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-aacursb7auc-unsplash.jpg?w=750\" alt=\"\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>기업이 자금 조달 성공을 달성하도록 도와줄 명확한 브랜드 정체성을 정의할 수 있도록 지원합니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">웹 디자인</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":8,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img class=\"wp-image-8\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-b9rpuuq_yss-unsplash.jpg?w=750\" alt=\"\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>웹 디자인 전문가로서 수상 경력에 빛나는 최첨단 온라인 환경을 제작합니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">디지털 마케팅</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":7,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img class=\"wp-image-7\" src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-l0nipfx-ry4-unsplash.jpg?w=750\" alt=\"\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>마케팅 전략 개발에서 캠페인 관리에 이르기까지 모든 마케팅 및 광고 필요사항을 해결해 드립니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64,\"className\":\"desktop-only\"} --> <div class=\"wp-block-spacer desktop-only\" style=\"height:64px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\">\n<div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div class=\"wp-block-spacer\" style=\"height:32px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --> <!-- wp:heading {\"align\":\"center\"} --> <h2 class=\"has-text-align-center\">함께 목표를 이루어보아요.</h2> <!-- /wp:heading --> <!-- wp:button {\"align\":\"center\",\"className\":\"is-style-default\"} --> <div class=\"wp-block-button aligncenter is-style-default\"><a class=\"wp-block-button__link\" href=\"https://shawburndemo.wordpress.com/contact/\">문의하기</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32} --> <div class=\"wp-block-spacer\" style=\"height:32px;\" aria-hidden=\"true\"> </div> <!-- /wp:spacer --></div>\n</div> <!-- /wp:group -->",
+            "post_name": "about",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "about",
+            "hs_old_id": 24,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_extra",
+            "attachment_url": "https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg"
+        },
+        {
+            "post_type": "page",
+            "post_title": "새소식",
+            "post_content": "",
+            "post_name": "news",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "blank",
+            "hs_old_id": 17,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_blog_page"
+        },
+        {
+            "post_type": "page",
+            "post_title": "홈",
+            "post_content": "<!-- wp:cover {\"url\":\"https:\\/\\/shawburndemo.files.wordpress.com\\/2019\\/08\\/aleks-dorohovich-njdwuhmay8a-unsplash.jpg\",\"id\":5,\"dimRatio\":0,\"align\":\"full\"} --> <div class=\"wp-block-cover alignfull\" style=\"background-image:url('https://shawburndemo.files.wordpress.com/2019/08/aleks-dorohovich-njdwuhmay8a-unsplash.jpg');\"><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"Write title\\u2026\",\"fontSize\":\"large\"} --> <p class=\"has-text-align-center has-large-font-size\"></p> <!-- /wp:paragraph --></div></div> <!-- /wp:cover --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:heading {\"level\":1} --> <h1>일반적인 대행사를 뛰어넘는 결과를 선물합니다.</h1> <!-- /wp:heading --> <!-- wp:paragraph --> <p>Shawburn에서는 3가지 주요 비즈니스 영역인 브랜딩, 웹 디자인 및 디지털 마케팅에서 뛰어난 결과를 제공합니다.</p> <!-- /wp:paragraph --> <!-- wp:button {\"className\":\"is-style-default\"} --> <div class=\"wp-block-button is-style-default\"><a class=\"wp-block-button__link\" href=\"https://shawburndemo.wordpress.com/portfolio/\">포트폴리오</a></div> <!-- /wp:button --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">브랜딩</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":9,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-aacursb7auc-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-9\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>기업이 자금 조달 성공을 달성하도록 도와줄 명확한 브랜드 정체성을 정의할 수 있도록 지원합니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">웹 디자인</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":8,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-b9rpuuq_yss-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-8\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>웹 디자인 전문가로서 수상 경력에 빛나는 최첨단 온라인 환경을 제작합니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">디지털 마케팅</h4> <!-- /wp:heading --> <!-- wp:image {\"id\":7,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-l0nipfx-ry4-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-7\" /></figure> <!-- /wp:image --> <!-- wp:paragraph --> <p>마케팅 전략 개발에서 캠페인 관리에 이르기까지 모든 마케팅 및 광고 필요사항을 해결해 드립니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:separator {\"className\":\"is-style-wide\"} --> <hr class=\"wp-block-separator is-style-wide\" /> <!-- /wp:separator --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":10,\"width\":75,\"height\":75,\"sizeSlug\":\"thumbnail\"} --> <div class=\"wp-block-image\"><figure class=\"aligncenter size-thumbnail is-resized\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/amy-hirschi-frdwhqc9stk-unsplash.jpg?w=150\" alt=\"\" class=\"wp-image-10\" width=\"75\" height=\"75\" /></figure></div> <!-- /wp:image --> <!-- wp:quote {\"align\":\"center\",\"className\":\"is-style-large\"} --> <blockquote class=\"wp-block-quote has-text-align-center is-style-large\"><p>저희는 Shawburn에 회사의 전체 브랜드 변경을 요청했습니다. 저희뿐만 아니라 고객도 결과에 매우 만족했죠.</p><cite>에이미 블레이크, LexCorp</cite></blockquote> <!-- /wp:quote --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:image {\"align\":\"center\",\"id\":11,\"width\":75,\"height\":75,\"sizeSlug\":\"thumbnail\"} --> <div class=\"wp-block-image\"><figure class=\"aligncenter size-thumbnail is-resized\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/etty-fidele-vnycibzju0o-unsplash.jpg?w=150\" alt=\"\" class=\"wp-image-11\" width=\"75\" height=\"75\" /></figure></div> <!-- /wp:image --> <!-- wp:quote {\"align\":\"center\",\"className\":\"is-style-large\"} --> <blockquote class=\"wp-block-quote has-text-align-center is-style-large\"><p>Shawburn은 온라인 마케팅을 맡아 놀라운 결과를 선물해주었습니다. 이제 모든 검색 엔진에서 첫 번째 검색 결과로 표시됩니다!</p><cite>마이크 월러스, Wayne Enterprises</cite></blockquote> <!-- /wp:quote --></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":64} --> <div style=\"height:64px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:group {\"backgroundColor\":\"background-light\",\"align\":\"full\"} --> <div class=\"wp-block-group alignfull has-background-light-background-color has-background\"><div class=\"wp-block-group__inner-container\"><!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --> <!-- wp:columns {\"align\":\"wide\"} --> <div class=\"wp-block-columns alignwide\"><!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">정보</h4> <!-- /wp:heading --> <!-- wp:image {\"align\":\"center\",\"id\":13,\"width\":150,\"height\":135,\"sizeSlug\":\"medium\"} --> <div class=\"wp-block-image\"><figure class=\"aligncenter size-medium is-resized\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/smooth.png?w=300\" alt=\"\" class=\"wp-image-13\" width=\"150\" height=\"135\" /></figure></div> <!-- /wp:image --> <!-- wp:paragraph --> <p>Shawburn은 샌디에고 시내에 위치한 수상 경력을 보유한 디지털 대행사입니다.</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">문의하기</h4> <!-- /wp:heading --> <!-- wp:paragraph --> <p>당사와 함께 제품과 서비스에 더 많은 고객을 유도하고 싶다면 연락해주십시오.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>email@example.com<br>(123) 456-7890<br>100 Park Blvd<br>San Diego, CA 92101</p> <!-- /wp:paragraph --></div> <!-- /wp:column --> <!-- wp:column --> <div class=\"wp-block-column\"><!-- wp:heading {\"align\":\"center\",\"level\":4} --> <h4 class=\"has-text-align-center\">영업 시간</h4> <!-- /wp:heading --> <!-- wp:jetpack/business-hours /--></div> <!-- /wp:column --></div> <!-- /wp:columns --> <!-- wp:spacer {\"height\":32} --> <div style=\"height:32px;\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div> <!-- /wp:spacer --></div></div> <!-- /wp:group --> <!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->",
+            "post_name": "home",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 2,
+            "hs_post_parent": 0,
+            "hs_taxonomies": [],
+            "hs_custom_meta": "_hs_front_page"
+        },
+        {
+            "post_type": "post",
+            "post_title": "업데이트: 현재 진행 중인 작업",
+            "post_content": "<!-- wp:paragraph --> <p>최근에 너무 바빠 블로그 업데이트를 하지 못했습니다. 두려움은 이제 그만, 몇 가지 소식과 함께 다시 돌아왔습니다!</p> <!-- /wp:paragraph --> <!-- wp:jetpack/tiled-gallery {\"ids\":[96,97,98]} --> <div class=\"wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"96\" data-link=\"https://shawburndemo.wordpress.com/mixkit-265-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-265-original.jpg\" data-width=\"2000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-265-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"97\" data-link=\"https://shawburndemo.wordpress.com/mixkit-266-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-266-original.jpg\" data-width=\"3000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-266-original.jpg\" /></figure><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"2000\" data-id=\"98\" data-link=\"https://shawburndemo.wordpress.com/mixkit-267-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg\" data-width=\"3000\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery --> <!-- wp:paragraph --> <p>신생 스타트업 기업을 위한 몇 가지 디지털 아트를 제작해달라는 의뢰를 받았습니다. 곧 최종 결과물을 공유할 예정이니 지켜봐주세요.</p> <!-- /wp:paragraph -->",
+            "post_name": "update-current-work",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 95,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Work"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "음식 삽화",
+            "post_content": "<!-- wp:paragraph --> <p>현재 새로운 온라인 광고 캠페인을 진행하고 있으며, 다양한 옵션을 둘러보며 굉장히 바쁜 나날을 보내고 있습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>미리보기를 확인해 보세요.</p> <!-- /wp:paragraph --> <!-- wp:jetpack/tiled-gallery {\"align\":\"full\",\"ids\":[87,88,89,90]} --> <div class=\"wp-block-jetpack-tiled-gallery alignfull is-style-rectangular\"><div class=\"tiled-gallery__gallery\"><div class=\"tiled-gallery__row\"><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"87\" data-link=\"https://shawburndemo.wordpress.com/mixkit-177-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-177-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-177-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"88\" data-link=\"https://shawburndemo.wordpress.com/mixkit-178-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-178-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-178-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"89\" data-link=\"https://shawburndemo.wordpress.com/mixkit-179-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-179-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-179-original.jpg\" /></figure></div><div class=\"tiled-gallery__col\"><figure class=\"tiled-gallery__item\"><img alt=\"\" data-height=\"3000\" data-id=\"90\" data-link=\"https://shawburndemo.wordpress.com/mixkit-180-original/\" data-url=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-180-original.jpg\" data-width=\"1688\" src=\"https://shawburndemo.files.wordpress.com/2019/08/mixkit-180-original.jpg\" /></figure></div></div></div></div> <!-- /wp:jetpack/tiled-gallery -->",
+            "post_name": "food-artworks",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 86,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Work"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        },
+        {
+            "post_type": "post",
+            "post_title": "새로운 사무실",
+            "post_content": "<!-- wp:paragraph --> <p>새로운 한 해, 새로운 사무실</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>이 사무실 계약은 몇 주 전에 체결되었지만 크리스마스와 휴일이 있어서 공식 발표가 조금 늦어졌습니다.</p> <!-- /wp:paragraph --> <!-- wp:paragraph --> <p>새로운 주소:</p> <!-- /wp:paragraph --> <!-- wp:jetpack/contact-info --> <div class=\"wp-block-jetpack-contact-info\"><!-- wp:jetpack/address {\"address\":\"100 Park Blvd\",\"city\":\"San Diego\",\"region\":\"CA\",\"postal\":\"92101\",\"linkToGoogleMaps\":true} --> <div class=\"wp-block-jetpack-address\"><a href=\"https://www.google.com/maps/search/100+Park Blvd,+San Diego,+CA,+92101\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"Google 지도에서 주소 열기\"><div class=\"jetpack-address__address jetpack-address__address1\">100 Park Blvd</div><div><span class=\"jetpack-address__city\">San Diego</span>, <span class=\"jetpack-address__region\">CA</span> <span class=\"jetpack-address__postal\">92101</span></div></a></div> <!-- /wp:jetpack/address --></div> <!-- /wp:jetpack/contact-info --> <!-- wp:image {\"align\":\"wide\",\"id\":82,\"sizeSlug\":\"large\"} --> <figure class=\"wp-block-image alignwide size-large\"><img src=\"https://shawburndemo.files.wordpress.com/2019/08/room-l9qpabikkhw-unsplash.jpg?w=1024\" alt=\"\" class=\"wp-image-82\" /></figure> <!-- /wp:image -->",
+            "post_name": "new-office",
+            "post_excerpt": "",
+            "menu_order": 0,
+            "post_status": "publish",
+            "comment_status": "closed",
+            "ping_status": "closed",
+            "_starter_page_template": "",
+            "hs_old_id": 81,
+            "hs_post_parent": 0,
+            "hs_taxonomies": {
+                "category_name": [
+                    "Office"
+                ],
+                "post_tag_name": []
+            },
+            "hs_custom_meta": "_hs_extra"
+        }
+    ],
+    "menus": {
+        "primary": {
+            "name": "기본",
+            "items": [
+                {
+                    "menu-item-title": "홈",
+                    "menu-item-db-id": 4,
+                    "menu-item-object-id": "2",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "포트폴리오",
+                    "menu-item-db-id": 35,
+                    "menu-item-object-id": "31",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "정보",
+                    "menu-item-db-id": 36,
+                    "menu-item-object-id": "24",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "새소식",
+                    "menu-item-db-id": 38,
+                    "menu-item-object-id": "17",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                },
+                {
+                    "menu-item-title": "연락처",
+                    "menu-item-db-id": 37,
+                    "menu-item-object-id": "27",
+                    "menu-item-object": "page",
+                    "menu-item-type": "post_type",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": ""
+                }
+            ]
+        },
+        "social": {
+            "name": "소셜",
+            "items": [
+                {
+                    "menu-item-title": "페이스북",
+                    "menu-item-db-id": 40,
+                    "menu-item-object-id": "40",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 1,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://facebook.com"
+                },
+                {
+                    "menu-item-title": "Twitter",
+                    "menu-item-db-id": 41,
+                    "menu-item-object-id": "41",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 2,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://twitter.com"
+                },
+                {
+                    "menu-item-title": "인스타그램",
+                    "menu-item-db-id": 42,
+                    "menu-item-object-id": "42",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 3,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://instagram.com"
+                },
+                {
+                    "menu-item-title": "Dribbble",
+                    "menu-item-db-id": 43,
+                    "menu-item-object-id": "43",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 4,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://dribbble.com"
+                },
+                {
+                    "menu-item-title": "Behance",
+                    "menu-item-db-id": 44,
+                    "menu-item-object-id": "44",
+                    "menu-item-object": "custom",
+                    "menu-item-type": "custom",
+                    "menu-item-status": "publish",
+                    "menu-item-position": 5,
+                    "menu-item-parent-id": "0",
+                    "menu-item-description": "",
+                    "menu-item-url": "http://behance.net"
+                }
+            ]
+        }
+    },
+    "images": [
+        "https://shawburndemo.files.wordpress.com/2019/08/cropped-smooth-1.png",
+        "https://shawburndemo.files.wordpress.com/2019/08/cropped-smooth.png",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-267-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-266-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-265-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-180-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-179-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-178-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/mixkit-177-original.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/room-l9qpabikkhw-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-ojhdfivlrfq-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-lpwl2pevgkc-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-kvomdhvcttg-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-jkaixp_jppo-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-f5t3eyxuqg8-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-9vzorkfbsmm-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-6ba_vdgx_go-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-_x335izxxfc-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/smooth.png",
+        "https://shawburndemo.files.wordpress.com/2019/08/etty-fidele-vnycibzju0o-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/amy-hirschi-frdwhqc9stk-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-aacursb7auc-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-b9rpuuq_yss-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/balazs-ketyi-l0nipfx-ry4-unsplash.jpg",
+        "https://shawburndemo.files.wordpress.com/2019/08/aleks-dorohovich-njdwuhmay8a-unsplash.jpg"
+    ]
+}

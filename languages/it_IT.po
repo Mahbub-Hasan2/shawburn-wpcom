@@ -1,0 +1,89 @@
+# Translation of WordPress.com - Themes - Shawburn in Italian
+# This file is distributed under the same license as the WordPress.com - Themes - Shawburn package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-25 13:14:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: WordPress.com - Themes - Shawburn\n"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:126
+msgctxt "PT Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by PT Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:131
+msgctxt "PT Serif font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Description of the plugin/theme
+#: wp-content/themes/pub/shawburn/style.css
+msgid "Shawburn is the ideal choice for creating an online presence for your business."
+msgstr "Shawburn è il tema ideale per creare un fantastico sito per la tua attività."
+
+#: functions.php:49
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:61
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:66
+msgid "Secondary"
+msgstr "Secondario"
+
+#: functions.php:71
+msgid "Dark Gray"
+msgstr "Grigio scuro"
+
+#: functions.php:76
+msgid "Gray"
+msgstr "Grigio"
+
+#: functions.php:96
+msgid "White"
+msgstr "Bianco"
+
+#: functions.php:81 functions.php:86
+msgid "Light Gray"
+msgstr "Grigio Chiaro"
+
+#: functions.php:31
+msgid "S"
+msgstr "S"
+
+#: functions.php:36
+msgid "Normal"
+msgstr "Normale"
+
+#: functions.php:37
+msgid "M"
+msgstr "M"
+
+#: functions.php:42
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:43
+msgid "L"
+msgstr "L"
+
+#: functions.php:48
+msgid "Huge"
+msgstr "Grande"
+
+#: functions.php:30
+msgid "Small"
+msgstr "Piccolo"
